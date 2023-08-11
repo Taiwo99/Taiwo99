@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Taiwo99
 - 👀 I’m interested in UI/UX designer
-- 🌱 I’m currently learning with zuri
-- 💞️ I’m looking to collaborate on frontend developer
+- 🌱 I’m currently learning frontend
+- 💞️ I’m looking to collaborate on frontend developer and backend
 - 📫 How to reach me ... taiwolateefat99@gmail.com
 
 <!---
